@@ -1,0 +1,101 @@
+id,username,name,age,city,registration_date,interests
+U001,maria_silva,Maria Silva,28,São Paulo,2023-01-15,tecnologia|marketing|fotografia
+U002,joao_oliveira,João Oliveira,32,Rio de Janeiro,2023-02-20,esportes|negócios|viagens
+U003,ana_costa,Ana Costa,25,Belo Horizonte,2023-03-10,moda|música|arte
+U004,pedro_santos,Pedro Santos,35,Porto Alegre,2023-01-30,tecnologia|ciência|games
+U005,carla_lima,Carla Lima,29,São Paulo,2023-02-15,marketing|fotografia|viagens
+U006,rafael_mendes,Rafael Mendes,31,Curitiba,2023-03-05,esportes|negócios|tecnologia
+U007,julia_fernandes,Júlia Fernandes,27,Florianópolis,2023-04-01,moda|arte|música
+U008,lucas_almeida,Lucas Almeida,33,Salvador,2023-02-28,games|ciência|tecnologia
+U009,target_user1,Target User 1,26,São Paulo,2023-03-15,tecnologia|startups|inovação
+U010,target_user2,Target User 2,30,Campinas,2023-03-20,marketing|redes sociais|publicidade
+U011,sofia_rocha,Sofia Rocha,24,Recife,2023-04-10,moda|design|fotografia
+U012,gabriel_martins,Gabriel Martins,36,Brasília,2023-04-05,política|negócios|tecnologia
+U013,beatriz_alves,Beatriz Alves,22,Florianópolis,2023-05-12,arte|literatura|cinema
+U014,rodrigo_pereira,Rodrigo Pereira,38,Manaus,2023-05-20,esportes|tecnologia|viagens
+U015,larissa_souza,Larissa Souza,26,Fortaleza,2023-06-01,moda|beleza|saúde
+U016,guilherme_lima,Guilherme Lima,34,Goiânia,2023-06-15,negócios|investimentos|tecnologia
+U017,amanda_costa,Amanda Costa,23,Salvador,2023-07-03,música|dança|teatro
+U018,marcos_santos,Marcos Santos,41,São Paulo,2023-07-18,ciência|tecnologia|inovacao
+U019,fernanda_oliveira,Fernanda Oliveira,27,Rio de Janeiro,2023-08-02,marketing|publicidade|redes sociais
+U020,carlos_mendes,Carlos Mendes,33,Curitiba,2023-08-20,esportes|games|tecnologia
+U021,patricia_rocha,Patricia Rocha,29,Belo Horizonte,2023-09-05,moda|design|arquitetura
+U022,ricardo_almeida,Ricardo Almeida,45,Porto Alegre,2023-09-12,negócios|gestão|tecnologia
+U023,vanessa_silva,Vanessa Silva,24,Campinas,2023-10-01,fotografia|viagens|culinária
+U024,bruno_fernandes,Bruno Fernandes,31,Recife,2023-10-15,games|tecnologia|cinema
+U025,daniela_costa,Daniela Costa,28,Florianópolis,2023-11-03,moda|beleza|bem-estar
+U026,leonardo_santos,Leonardo Santos,37,Manaus,2023-11-20,esportes|aventura|viagens
+U027,tatiane_oliveira,Tatiane Oliveira,26,Fortaleza,2023-12-05,música|cultura|arte
+U028,eduardo_lima,Eduardo Lima,40,Goiânia,2023-12-15,tecnologia|inovacao|startups
+U029,renata_souza,Renata Souza,29,Salvador,2024-01-10,marketing|comunicação|redes sociais
+U030,paulo_mendes,Paulo Mendes,34,São Paulo,2024-01-25,negócios|finanças|tecnologia
+U031,isabela_rocha,Isabela Rocha,23,Rio de Janeiro,2024-02-05,moda|fotografia|viagens
+U032,alexandre_almeida,Alexandre Almeida,42,Curitiba,2024-02-20,ciência|tecnologia|educação
+U033,mariana_silva,Mariana Silva,27,Belo Horizonte,2024-03-08,arte|cultura|literatura
+U034,felipe_fernandes,Felipe Fernandes,33,Porto Alegre,2024-03-22,esportes|games|tecnologia
+U035,carolina_costa,Carolina Costa,24,Campinas,2024-04-05,moda|design|fotografia
+U036,andre_santos,André Santos,39,Recife,2024-04-18,negócios|tecnologia|inovacao
+U037,vivian_oliveira,Vivian Oliveira,28,Florianópolis,2024-05-03,marketing|publicidade|redes sociais
+U038,rodrigo_lima,Rodrigo Lima,35,Manaus,2024-05-20,esportes|aventura|viagens
+U039,camila_souza,Camila Souza,26,Fortaleza,2024-06-07,música|dança|teatro
+U040,gustavo_mendes,Gustavo Mendes,44,Goiânia,2024-06-25,tecnologia|ciência|educação
+U041,leticia_rocha,Letícia Rocha,30,Salvador,2024-07-10,moda|beleza|bem-estar
+U042,roberto_almeida,Roberto Almeida,38,São Paulo,2024-07-28,negócios|investimentos|tecnologia
+U043,juliana_silva,Juliana Silva,25,Rio de Janeiro,2024-08-15,fotografia|viagens|culinária
+U044,thiago_fernandes,Thiago Fernandes,32,Curitiba,2024-08-30,games|tecnologia|cinema
+U045,beatriz_costa,Beatriz Costa,29,Belo Horizonte,2024-09-12,moda|design|arquitetura
+U046,diego_santos,Diego Santos,41,Porto Alegre,2024-09-25,esportes|tecnologia|viagens
+U047,ana_oliveira,Ana Oliveira,27,Campinas,2024-10-08,música|cultura|arte
+U048,rafael_lima,Rafael Lima,36,Recife,2024-10-22,tecnologia|inovacao|startups
+U049,marina_souza,Marina Souza,31,Florianópolis,2024-11-05,marketing|comunicação|redes sociais
+U050,luiz_mendes,Luiz Mendes,47,Manaus,2024-11-20,negócios|finanças|tecnologia
+U051,claudia_rocha,Cláudia Rocha,28,Fortaleza,2024-12-03,moda|fotografia|viagens
+U052,fabricio_almeida,Fabrício Almeida,39,Goiânia,2024-12-18,ciência|tecnologia|educação
+U053,paula_silva,Paula Silva,26,Salvador,2025-01-05,arte|cultura|literatura
+U054,marcelo_fernandes,Marcelo Fernandes,34,São Paulo,2025-01-20,esportes|games|tecnologia
+U055,aline_costa,Aline Costa,23,Rio de Janeiro,2025-02-02,moda|design|fotografia
+U056,rogerio_santos,Rogério Santos,42,Curitiba,2025-02-17,negócios|tecnologia|inovacao
+U057,débora_oliveira,Débora Oliveira,29,Belo Horizonte,2025-03-05,marketing|publicidade|redes sociais
+U058,wagner_lima,Wagner Lima,37,Porto Alegre,2025-03-22,esportes|aventura|viagens
+U059,karina_souza,Karina Souza,25,Campinas,2025-04-08,música|dança|teatro
+U060,antonio_mendes,Antônio Mendes,45,Recife,2025-04-25,tecnologia|ciência|educação
+U061,elaine_rocha,Elaine Rocha,31,Florianópolis,2025-05-10,moda|beleza|bem-estar
+U062,osvaldo_almeida,Osvaldo Almeida,43,Manaus,2025-05-27,negócios|investimentos|tecnologia
+U063,sandra_silva,Sandra Silva,28,Fortaleza,2025-06-12,fotografia|viagens|culinária
+U064,murilo_fernandes,Murilo Fernandes,33,Goiânia,2025-06-28,games|tecnologia|cinema
+U065,luciana_costa,Luciana Costa,30,Salvador,2025-07-15,moda|design|arquitetura
+U066,henrique_santos,Henrique Santos,44,São Paulo,2025-07-30,esportes|tecnologia|viagens
+U067,rosana_oliveira,Rosana Oliveira,26,Rio de Janeiro,2025-08-14,música|cultura|arte
+U068,cesar_lima,César Lima,38,Curitiba,2025-08-29,tecnologia|inovacao|startups
+U069,simone_souza,Simone Souza,32,Belo Horizonte,2025-09-13,marketing|comunicação|redes sociais
+U070,josé_mendes,José Mendes,50,Porto Alegre,2025-09-28,negócios|finanças|tecnologia
+U071,regina_rocha,Regina Rocha,29,Campinas,2025-10-10,moda|fotografia|viagens
+U072,armando_almeida,Armando Almeida,41,Recife,2025-10-25,ciência|tecnologia|educação
+U073,tereza_silva,Tereza Silva,27,Florianópolis,2025-11-08,arte|cultura|literatura
+U074,adriano_fernandes,Adriano Fernandes,35,Manaus,2025-11-23,esportes|games|tecnologia
+U075,rosangela_costa,Rosângela Costa,24,Fortaleza,2025-12-06,moda|design|fotografia
+U076,sebastiao_santos,Sebastião Santos,46,Goiânia,2025-12-21,negócios|tecnologia|inovacao
+U077,mônica_oliveira,Mônica Oliveira,31,Salvador,2026-01-05,marketing|publicidade|redes sociais
+U078,alex_lima,Alex Lima,39,São Paulo,2026-01-20,esportes|aventura|viagens
+U079,elisa_souza,Elisa Souza,28,Rio de Janeiro,2026-02-03,música|dança|teatro
+U080,luciano_mendes,Luciano Mendes,48,Curitiba,2026-02-18,tecnologia|ciência|educação
+U081,raquel_rocha,Raquel Rocha,32,Belo Horizonte,2026-03-05,moda|beleza|bem-estar
+U082,geraldo_almeida,Geraldo Almeida,44,Porto Alegre,2026-03-22,negócios|investimentos|tecnologia
+U083,denise_silva,Denise Silva,29,Campinas,2026-04-07,fotografia|viagens|culinária
+U084,flavio_fernandes,Flávio Fernandes,34,Recife,2026-04-24,games|tecnologia|cinema
+U085,marisa_costa,Marisa Costa,31,Florianópolis,2026-05-09,moda|design|arquitetura
+U086,ernesto_santos,Ernesto Santos,47,Manaus,2026-05-26,esportes|tecnologia|viagens
+U087,helena_oliveira,Helena Oliveira,27,Fortaleza,2026-06-10,música|cultura|arte
+U088,ivo_lima,Ivo Lima,40,Goiânia,2026-06-27,tecnologia|inovacao|startups
+U089,gisele_souza,Gisele Souza,33,Salvador,2026-07-14,marketing|comunicação|redes sociais
+U090,otavio_mendes,Otávio Mendes,52,São Paulo,2026-07-29,negócios|finanças|tecnologia
+U091,ilda_rocha,Ilda Rocha,30,Rio de Janeiro,2026-08-13,moda|fotografia|viagens
+U092,nelson_almeida,Nelson Almeida,43,Curitiba,2026-08-28,ciência|tecnologia|educação
+U093,sonia_silva,Sônia Silva,28,Belo Horizonte,2026-09-12,arte|cultura|literatura
+U094,alberto_fernandes,Alberto Fernandes,37,Porto Alegre,2026-09-27,esportes|games|tecnologia
+U095,celia_costa,Célia Costa,25,Campinas,2026-10-10,moda|design|fotografia
+U096,robson_santos,Robson Santos,49,Recife,2026-10-25,negócios|tecnologia|inovacao
+U097,angela_oliveira,Ângela Oliveira,32,Florianópolis,2026-11-09,marketing|publicidade|redes sociais
+U098,heitor_lima,Heitor Lima,41,Manaus,2026-11-24,esportes|aventura|viagens
+U099,bianca_souza,Bianca Souza,29,Fortaleza,2026-12-07,música|dança|teatro
+U100,leoncio_mendes,Leôncio Mendes,51,Goiânia,2026-12-22,tecnologia|ciência|educação

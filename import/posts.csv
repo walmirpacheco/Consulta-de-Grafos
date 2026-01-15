@@ -1,0 +1,101 @@
+id,user_id,content,created_at,score,sentiment,hashtags
+P001,U001,Novas tendências em marketing digital para 2024,2023-10-01T10:30:00,8.5,positivo,#MarketingDigital,#RedesSociais
+P002,U002,Como as startups estão usando IA para crescer,2023-10-02T14:15:00,9.0,positivo,#Tech,#Startup,#Inovação
+P003,U005,Dicas de fotografia para redes sociais,2023-10-03T09:45:00,7.8,neutro,#Fotografia,#Dicas
+P004,U004,As melhores ferramentas de análise de dados,2023-10-04T16:20:00,8.2,positivo,#Tech,#AnaliseDados
+P005,U003,Tendências de moda para o próximo verão,2023-10-05T11:10:00,7.5,positivo,#Moda,#Tendencias
+P006,U006,O futuro dos negócios digitais,2023-10-06T13:25:00,8.7,positivo,#Negocios,#Digital
+P007,U007,Arte contemporânea nas redes sociais,2023-10-07T15:40:00,7.2,neutro,#Arte,#Cultura
+P008,U008,Os games que vão dominar 2024,2023-10-08T10:15:00,8.9,positivo,#Games,#Tecnologia
+P009,U009,Inovação em tecnologia: o que esperar,2023-10-09T11:30:00,8.8,positivo,#Inovação,#Tech
+P010,U010,Estratégias de marketing para redes sociais,2023-10-10T14:20:00,8.4,positivo,#Marketing,#RedesSociais
+P011,U011,Design e funcionalidade: o equilíbrio perfeito,2023-10-11T09:55:00,7.9,positivo,#Design,#Arquitetura
+P012,U012,Política e tecnologia: como se relacionam,2023-10-12T16:45:00,6.5,neutro,#Política,#Tecnologia
+P013,U013,Literatura brasileira atual,2023-10-13T10:10:00,7.1,positivo,#Literatura,#Cultura
+P014,U014,Esportes radicais no Brasil,2023-10-14T13:35:00,8.3,positivo,#Esportes,#Aventura
+P015,U015,Beleza e autoestima,2023-10-15T15:50:00,7.6,positivo,#Beleza,#Saúde
+P016,U016,Investimentos para iniciantes,2023-10-16T11:25:00,8.6,positivo,#Investimentos,#Finanças
+P017,U017,Teatro independente nas capitais,2023-10-17T14:40:00,6.9,neutro,#Teatro,#Cultura
+P018,U018,Ciência e inovação no Brasil,2023-10-18T09:15:00,8.7,positivo,#Ciência,#Inovação
+P019,U019,Publicidade no mundo digital,2023-10-19T12:30:00,8.2,positivo,#Publicidade,#Marketing
+P020,U020,eSports: o futuro dos esportes,2023-10-20T15:45:00,9.1,positivo,#Games,#Esports
+P021,U021,Arquitetura sustentável,2023-10-21T10:20:00,8.0,positivo,#Arquitetura,#Sustentabilidade
+P022,U022,Gestão de pessoas em home office,2023-10-22T13:55:00,7.8,positivo,#Gestão,#Trabalho
+P023,U023,Fotografia de paisagens brasileiras,2023-10-23T16:10:00,8.5,positivo,#Fotografia,#Viagens
+P024,U024,Cinema nacional em alta,2023-10-24T09:35:00,7.3,positivo,#Cinema,#Cultura
+P025,U025,Bem-estar no dia a dia,2023-10-25T12:40:00,7.9,positivo,#BemEstar,#Saúde
+P026,U026,Aventuras pelo Brasil,2023-10-26T15:15:00,8.8,positivo,#Aventura,#Viagens
+P027,U027,Cultura popular brasileira,2023-10-27T10:50:00,7.5,positivo,#Cultura,#Arte
+P028,U028,Startups brasileiras que impressionam,2023-10-28T13:25:00,8.9,positivo,#Startup,#Inovação
+P029,U029,Comunicação eficiente nas empresas,2023-10-29T16:40:00,7.7,positivo,#Comunicação,#Negócios
+P030,U030,Finanças pessoais em 2024,2023-10-30T09:55:00,8.4,positivo,#Finanças,#Educação
+P031,U031,Fotografia de moda,2023-10-31T12:20:00,8.1,positivo,#Fotografia,#Moda
+P032,U032,Educação tecnológica nas escolas,2023-11-01T15:35:00,8.6,positivo,#Educação,#Tecnologia
+P033,U033,Literatura contemporânea,2023-11-02T10:00:00,7.4,neutro,#Literatura,#Arte
+P034,U034,Games e desenvolvimento cognitivo,2023-11-03T13:25:00,8.3,positivo,#Games,#Educação
+P035,U035,Design de interiores moderno,2023-11-04T16:40:00,7.8,positivo,#Design,#Arquitetura
+P036,U036,Inovação nos negócios tradicionais,2023-11-05T09:55:00,8.7,positivo,#Inovação,#Negócios
+P037,U037,Redes sociais para empresas,2023-11-06T12:20:00,8.2,positivo,#RedesSociais,#Marketing
+P038,U038,Viagens de aventura no exterior,2023-11-07T15:35:00,8.9,positivo,#Viagens,#Aventura
+P039,U039,Dança como expressão cultural,2023-11-08T10:00:00,7.6,positivo,#Dança,#Cultura
+P040,U040,Tecnologia na educação básica,2023-11-09T13:25:00,8.8,positivo,#Tecnologia,#Educação
+P041,U041,Beleza natural e sustentável,2023-11-10T16:40:00,7.9,positivo,#Beleza,#Sustentabilidade
+P042,U042,Investimentos em tecnologia,2023-11-11T09:55:00,8.5,positivo,#Investimentos,#Tecnologia
+P043,U043,Culinária brasileira regional,2023-11-12T12:20:00,8.3,positivo,#Culinária,#Viagens
+P044,U044,Cinema e tecnologia,2023-11-13T15:35:00,8.1,positivo,#Cinema,#Tecnologia
+P045,U045,Arquitetura brasileira contemporânea,2023-11-14T10:00:00,8.4,positivo,#Arquitetura,#Cultura
+P046,U046,Tecnologia nos esportes,2023-11-15T13:25:00,8.7,positivo,#Tecnologia,#Esportes
+P047,U047,Arte urbana nas cidades,2023-11-16T16:40:00,7.7,positivo,#Arte,#Cultura
+P048,U048,Inovação em TI,2023-11-17T09:55:00,8.9,positivo,#TI,#Inovação
+P049,U049,Redes sociais e comunicação interna,2023-11-18T12:20:00,7.8,positivo,#RedesSociais,#Comunicação
+P050,U050,Finanças corporativas,2023-11-19T15:35:00,8.6,positivo,#Finanças,#Negócios
+P051,U051,Fotografia de viagens internacionais,2023-11-20T10:00:00,8.8,positivo,#Fotografia,#Viagens
+P052,U052,Educação científica nas universidades,2023-11-21T13:25:00,8.2,positivo,#Educação,#Ciência
+P053,U053,Arte brasileira no exterior,2023-11-22T16:40:00,7.9,positivo,#Arte,#Cultura
+P054,U054,Games educativos,2023-11-23T09:55:00,8.5,positivo,#Games,#Educação
+P055,U055,Design de moda sustentável,2023-11-24T12:20:00,8.0,positivo,#Design,#Moda
+P056,U056,Inovação em gestão,2023-11-25T15:35:00,8.7,positivo,#Inovação,#Gestão
+P057,U057,Publicidade digital eficaz,2023-11-26T10:00:00,8.3,positivo,#Publicidade,#Marketing
+P058,U058,Aventuras na natureza,2023-11-27T13:25:00,9.0,positivo,#Aventura,#Natureza
+P059,U059,Dança contemporânea,2023-11-28T16:40:00,7.5,positivo,#Dança,#Arte
+P060,U060,Tecnologia assistiva na educação,2023-11-29T09:55:00,8.9,positivo,#Tecnologia,#Educação
+P061,U061,Beleza masculina,2023-11-30T12:20:00,7.8,neutro,#Beleza,#Saúde
+P062,U062,Investimentos em startups,2023-12-01T15:35:00,8.6,positivo,#Investimentos,#Startup
+P063,U063,Fotografia gastronômica,2023-12-02T10:00:00,8.2,positivo,#Fotografia,#Culinária
+P064,U064,Cinema independente brasileiro,2023-12-03T13:25:00,7.9,positivo,#Cinema,#Cultura
+P065,U065,Arquitetura de interiores,2023-12-04T16:40:00,8.3,positivo,#Arquitetura,#Design
+P066,U066,Esportes eletrônicos no Brasil,2023-12-05T09:55:00,8.8,positivo,#Esports,#Games
+P067,U067,Música brasileira contemporânea,2023-12-06T12:20:00,7.7,positivo,#Música,#Cultura
+P068,U068,Inovação em Cloud Computing,2023-12-07T15:35:00,9.0,positivo,#TI,#Inovação
+P069,U069,Marketing B2B em redes sociais,2023-12-08T10:00:00,8.4,positivo,#Marketing,#B2B
+P070,U070,Fintechs brasileiras,2023-12-09T13:25:00,8.7,positivo,#Finanças,#Tecnologia
+P071,U071,Fotografia de moda streetwear,2023-12-10T16:40:00,8.1,positivo,#Fotografia,#Moda
+P072,U072,Educação a distância,2023-12-11T09:55:00,8.5,positivo,#Educação,#Tecnologia
+P073,U073,Arte digital,2023-12-12T12:20:00,8.3,positivo,#Arte,#Tecnologia
+P074,U074,Games brasileiros,2023-12-13T15:35:00,8.6,positivo,#Games,#Cultura
+P075,U075,Design sustentável,2023-12-14T10:00:00,8.2,positivo,#Design,#Sustentabilidade
+P076,U076,Inovação em logística,2023-12-15T13:25:00,8.8,positivo,#Inovação,#Logística
+P077,U077,Publicidade em vídeo,2023-12-16T16:40:00,8.0,positivo,#Publicidade,#Marketing
+P078,U078,Aventuras de montanhismo,2023-12-17T09:55:00,9.1,positivo,#Aventura,#Esportes
+P079,U079,Dança tradicional brasileira,2023-12-18T12:20:00,7.9,positivo,#Dança,#Cultura
+P080,U080,Tecnologia na medicina,2023-12-19T15:35:00,8.9,positivo,#Tecnologia,#Saúde
+P081,U081,Beleza vegana,2023-12-20T10:00:00,7.8,positivo,#Beleza,#Veganismo
+P082,U082,Investimentos internacionais,2023-12-21T13:25:00,8.5,positivo,#Investimentos,#Mercado
+P083,U083,Fotografia noturna,2023-12-22T16:40:00,8.4,positivo,#Fotografia,#Técnicas
+P084,U084,Cinema de ficção científica,2023-12-23T09:55:00,8.7,positivo,#Cinema,#Tecnologia
+P085,U085,Arquitetura hospitalar,2023-12-24T12:20:00,8.1,positivo,#Arquitetura,#Saúde
+P086,U086,Esportes olímpicos,2023-12-25T15:35:00,8.6,positivo,#Esportes,#Olimpíadas
+P087,U087,Música independente,2023-12-26T10:00:00,7.5,positivo,#Música,#Cultura
+P088,U088,Inovação em segurança digital,2023-12-27T13:25:00,9.0,positivo,#TI,#Segurança
+P089,U089,Marketing de conteúdo,2023-12-28T16:40:00,8.3,positivo,#Marketing,#Conteúdo
+P090,U090,Finanças para pequenas empresas,2023-12-29T09:55:00,8.7,positivo,#Finanças,#Empresas
+P091,U091,Fotografia de arquitetura,2023-12-30T12:20:00,8.5,positivo,#Fotografia,#Arquitetura
+P092,U092,Educação científica para crianças,2023-12-31T15:35:00,8.4,positivo,#Educação,#Ciência
+P093,U093,Arte terapia,2024-01-01T10:00:00,7.9,positivo,#Arte,#Saúde
+P094,U094,Games para saúde mental,2024-01-02T13:25:00,8.3,positivo,#Games,#Saúde
+P095,U095,Design de produto,2024-01-03T16:40:00,8.1,positivo,#Design,#Produto
+P096,U096,Inovação em e-commerce,2024-01-04T09:55:00,8.8,positivo,#Inovação,#Ecommerce
+P097,U097,Publicidade nativa,2024-01-05T12:20:00,8.2,positivo,#Publicidade,#Marketing
+P098,U098,Aventuras aquáticas,2024-01-06T15:35:00,8.9,positivo,#Aventura,#Esportes
+P099,U099,Dança moderna,2024-01-07T10:00:00,7.7,positivo,#Dança,#Arte
+P100,U100,Tecnologia na agricultura,2024-01-08T13:25:00,8.8,positivo,#Tecnologia,#Agricultura
